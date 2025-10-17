@@ -1,4 +1,4 @@
-# Bank Contract
+# deposit and withdraw contract
 
 **License:** GPL-3.0-or-later  
 **Solidity Version:** >=0.4.22 <0.9.0  
@@ -7,7 +7,7 @@
 
 ## Description
 
-This project contains a simple Ethereum smart contract named **`bank`**.  
+This project contains a simple Ethereum smart contract.  
 The contract allows users to deposit and withdraw Ether securely, while preventing reentrancy attacks using a basic lock mechanism.
 
 ---
